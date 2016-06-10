@@ -12,6 +12,7 @@ audio{
 }
 .desc{
 	padding: 4px;
+	cursor: default;
 }
 tr td div button{
 	width: 25px;
